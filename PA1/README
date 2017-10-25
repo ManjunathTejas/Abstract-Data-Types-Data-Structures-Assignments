@@ -1,0 +1,15 @@
+Tejas Manjunath
+1536271
+tmanjuna
+PA1
+
+
+Programming Assignment 1
+
+List.java: Consists of methods that can manipulate a Linked List. All these methods are used to help sort the List.
+
+Lex.java: The Lex reads the inputfile and writes to the output file. I use a insertion sort type algorithim which checks if the Node to be entered goes after the greatest element or before the lowest element first. After starting from the bottom of the list it will try to find an element that is greater and once itdoes it will insert it before.
+
+ListClient.java: Is used to test if some of the List's methods are working. This does not mean for sure that all the List methods working.
+
+Makefile: Used to compile and run all the files.
