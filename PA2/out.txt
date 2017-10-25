@@ -1,0 +1,14 @@
+line 1 contains 1 token: 
+   apple
+
+line 2 contains 1 token: 
+   cat
+
+line 3 contains 1 token: 
+   tangerine
+
+line 4 contains 3 tokens: 
+   bear
+   eats
+   meat
+

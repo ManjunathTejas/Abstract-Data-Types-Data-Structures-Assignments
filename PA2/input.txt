@@ -1,0 +1,4 @@
+apple
+cat
+tangerine
+bear eats meat
